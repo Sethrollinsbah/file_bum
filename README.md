@@ -1,4 +1,4 @@
-**FileBum: A Cloud Storage Solution for Real Estate Agents**
+# FileBum: A Cloud Storage Solution for Real Estate Agents
 
 **Overview**
 

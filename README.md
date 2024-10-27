@@ -44,4 +44,4 @@ FileBum is a cloud-based storage solution designed specifically for real estate 
 
 **License**
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
